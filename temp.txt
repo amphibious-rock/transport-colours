@@ -1,0 +1,76 @@
+Corporate Blue - #003485
+Corporate Yellow - #ffcf00
+Corporate Green - #006f2e
+Corporate Black - #000000
+Corporate White - #ffffff
+Corporate Grey = #80888a
+Corporate Dark Grey - #313e46
+
+MODES
+
+Transport for London - #003485
+DLR - #00a2a0
+Elizabeth Line - #6f4390
+London Buses - #d8111b
+London Cable Car - #de261c
+London Coaches - #f4aa00
+London Dial-a-ride - #ae3889
+London Overground - #e7710e
+London River Services - #009cd6
+London Trams - #7db31c
+London Underground - #003485
+Santander Cycles - #e2001a
+
+SAFETY 
+
+Safety Blue - #005a9e
+Plus the other corporate colours except blue
+
+London Underground
+
+Bakerloo Line - #aa561e
+Central Line - #d8111b
+Circle Line - #ffcf00
+District Line - #006f2e
+Hammersmith & City Line - #eca0b0
+Jubilee Line - #80888a
+Metropolitan Line - #8a124c
+Northern Line - #000000
+Piccadilly Line - #102c80
+Victoria Line - #009cd6
+Waterloo & City Line - #7dc3ab
+
+London Overground
+
+Liberty Line - #656564
+Lioness Line - #f6a800
+Mildmay Line - #0075ac
+Suffragette Line - #64b361
+Weaver Line - #88395f
+Windrush Line - #e20025
+
+
+Superloop colours
+
+Superloop Red - #d8111b
+Superloop Cyan / SL5 - #37aadc
+Superloop Orange / SL10 - #f29400
+Superloop Maroon / SL7 - #bd005e
+Superloop Route SL1 - #e33a16
+Superloop Green / SL2 - #bacc00
+Superloop Route SL3 - #801b6c
+Superloop Route SL4 - #5b5a59
+Superloop Route SL6 - #e1007a
+Superloop Route SL8 - #113382
+Superloop Route SL9 - #048e9c
+
+other
+
+Congestion Charge - #db002e
+Visitor Centre - #e20079
+Lew Emission Zone - #648925
+Cycleway green - #7eba00
+Oyster Dark Blue - #003788
+Oyster Cyan - #009de0
+Legible London Yellow - #f2c000
+Legible London Blue - #002240
